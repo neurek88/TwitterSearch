@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="queryPrompt">Enter Twitter Search query</string>
+    <string name="tagSearches">Tagged Searches</string>
+    <string name="taggedPrompt">Tag your Search</string>
+    <string name="saveDescription">Touch to save</string>
+    <string name="searchURL">http://mobile.twitter.com/search/</string>
+    <string name="OK">OK</string>
+    <string name="missingMessage">Enter both Twitter search query and a tag</string>
+</resources>
